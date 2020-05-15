@@ -1,1 +1,1 @@
-![](assets/plot1.png.png)
+![](assets/plot1.png)
